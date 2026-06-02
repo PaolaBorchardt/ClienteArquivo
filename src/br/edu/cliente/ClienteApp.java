@@ -1,6 +1,6 @@
 package br.edu.cliente;
 
-import br.edu.cliente.ui.ClienteSwing;
+import br.edu.ui.ClienteSwing;
 import javax.swing.SwingUtilities;
 
 public class ClienteApp {

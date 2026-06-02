@@ -1,7 +1,7 @@
-package br.edu.cliente.ui;
+package br.edu.ui;
 
-import br.edu.cliente.network.ClienteTCP;
-import br.edu.cliente.network.ClienteUDP;
+import br.edu.network.ClienteTCP;
+import br.edu.network.ClienteUDP;
 import java.awt.*;
 import javax.swing.*;
 

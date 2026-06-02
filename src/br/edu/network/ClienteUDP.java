@@ -1,4 +1,4 @@
-package br.edu.cliente.network;
+package br.edu.network;
 
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
